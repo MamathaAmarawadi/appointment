@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.bottom-card {
+  border-style: solid;
+  height: 170px;
+  width: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 2px;
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+.card-container {
+}
+
+.pic {
+  margin-top: 20px;
+}
+
+.bottom-btn {
+  background-color: transparent;
+  border-style: none;
+}

@@ -1,0 +1,69 @@
+/* Write your CSS here */
+.row1 {
+  margin-top: 40px;
+}
+.row {
+  display: flex;
+  justify-content: space-around;
+}
+.bottom-heading {
+  display: flex;
+  justify-content: space-between;
+}
+.container {
+  background-image: linear-gradient(to top, #9796f0, #fbc7d4);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.card {
+  margin: 20px;
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  border-style: none;
+  width: 100vw;
+}
+
+.input {
+  height: 50px;
+  width: 550px;
+}
+.btn {
+  background-color: #8b5cf6;
+  color: white;
+  border-radius: 20px;
+  padding: 15px;
+  border-width: 0px;
+  margin: 10px;
+  width: 150px;
+  margin-top: 15px;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.bottom-heading {
+  margin-left: 20px;
+}
+
+.star {
+  border-radius: 10px;
+  background-color: transparent;
+  border-style: solid;
+  height: 30px;
+  width: 80px;
+  margin-top: 20px;
+}
+.form-details {
+  margin: 40px;
+}
+.img {
+  height: 400px;
+  width: 750px;
+}
